@@ -19,14 +19,20 @@ https://github.com/zenazn/goji
 
 https://github.com/codegangsta/negroni
 
+https://github.com/hoisie/web
+https://github.com/emicklei/go-restful
+
 ## less
 https://github.com/michaeljs1990/freetime
 
 
 ## Middleware
 https://github.com/justinas/nosurf
+https://github.com/gorilla/handlers
 
 
+## mux
+https://github.com/julienschmidt/httprouter
 
 
 Optional:
@@ -54,6 +60,7 @@ github.com/coopernurse/gorp
 
 ## good articals
 http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/
+https://github.com/golang/go/wiki/LearnServerProgramming
 
 
 ## cool stuff
